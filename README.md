@@ -19,3 +19,14 @@ The Website of the Channel is below:
 https://thingspeak.com/channels/1372469
 
 ![image](https://github.com/jasonngai01/IoT-monitioring-system-for-Aquaponics/blob/main/pic/thingspeak.jfif)
+
+
+# Usage of scripts
+1. Go to the https://makecode.microbit.org/#editor
+2. Add the MuseLab extension
+3. Paste the code from main.py to the editor (change your own wifi ssid and Password & and ThingSpeak code)
+4. Export the .hex file
+5. Connect the Micro:bit (without the wifi booster) to the computer and the drag the .hex file to the Micro:bit
+6. Connect the Micro:bit to the wifi booster
+7. Switch on the wifi booster
+8. Go to the https://thingspeak.com to monitor the Aquaponics habitat
